@@ -441,3 +441,6 @@ font-size: 24px;
 .bttn:hover{
    color: white;
 }
+.bttn{
+   text-decoration: none;
+}
